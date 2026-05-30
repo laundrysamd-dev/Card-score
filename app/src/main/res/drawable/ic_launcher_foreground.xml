@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Tilted Back Card (Card Game theme) -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M31.2,36.5 L53.5,23.6 C55.3,22.6 57.6,23.2 58.6,25.0 L71.5,47.3 C72.5,49.1 71.9,51.4 70.1,52.4 L47.8,65.3 C46.0,66.3 43.7,65.7 42.7,63.9 L29.8,41.6 C28.8,39.8 29.4,37.5 31.2,36.5 Z" />
+
+    <!-- Overlapping Front Card with bold spade symbol inside -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,34 H72 C74.2,34 76,35.8 76,38 V74 C76,76.2 74.2,78 72,78 H44 C41.8,78 40,76.2 40,74 V38 C40,35.8 41.8,34 44,34 Z" />
+
+    <!-- Central spade vector on front card -->
+    <path
+        android:fillColor="#1A1C29"
+        android:pathData="M58,46 C55.5,50 50.5,50 53,55 C54.5,57.5 56.5,57.5 57,59.5 H59 C59.5,57.5 61.5,57.5 63,55 C65.5,50 60.5,46 58,46 Z M57,61 L59,61 L59,63 L57,63 Z" />
+
+    <!-- Minimalist Chess Knight/Rook outline layered in golden coin style on foreground corner -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M64,60 H76 V74 H64 Z M66,54 H74 V60 H66 Z M68,50 H72 V54 H68 Z" />
+    <path
+        android:fillColor="#1A1C29"
+        android:pathData="M68,64 H72 V70 H68 Z" />
+</vector>
